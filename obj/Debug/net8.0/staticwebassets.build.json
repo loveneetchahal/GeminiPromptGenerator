@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "byzs7yjRkN36YSLfHz79juMWGbat+lIZIi0DePCqVYc=",
+  "Source": "GeminiPromptGenerator",
+  "BasePath": "_content/GeminiPromptGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

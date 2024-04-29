@@ -1,9 +1,3 @@
-# DotnetGeminiSDK 
-
-![NuGet Version](https://img.shields.io/nuget/v/DotnetGeminiSDK) ![NuGet Downloads](https://img.shields.io/nuget/dt/DotnetGeminiSDK)
-
-Welcome to DotnetGeminiSDK, a .NET SDK for interacting with the Google Gemini API. This SDK empowers developers to harness the capabilities of machine learning models to generate creative content effortlessly.
-
 ## Table of Contents
 - [Installation](#installation)
 - [Configuration](#configuration)
@@ -19,7 +13,7 @@ Welcome to DotnetGeminiSDK, a .NET SDK for interacting with the Google Gemini AP
   - [Exception Handling](#exception-handling)
 - [Contributing](#contributing)
 - [License](#license)
-  
+- [Reference](#reference)
 # What is Google Gemini?
 Google Gemini is an advanced AI platform that offers various interfaces for commands tailored to different use cases. It allows users to interact with machine learning models for generating content and responses to instructions. The platform supports free-form commands, structured commands, and chat-based requests. Additionally, Gemini provides the ability to adjust models for specific tasks, enhancing their performance for particular use cases.
 

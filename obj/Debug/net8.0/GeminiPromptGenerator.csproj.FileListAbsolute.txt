@@ -32,3 +32,4 @@ C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\obj\Debug\
 C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\obj\Debug\net8.0\GeminiPromptGenerator.pdb
 C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\obj\Debug\net8.0\GeminiPromptGenerator.genruntimeconfig.cache
 C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\obj\Debug\net8.0\ref\GeminiPromptGenerator.dll
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\obj\Debug\net8.0\GeminiPromptGenerator.sourcelink.json

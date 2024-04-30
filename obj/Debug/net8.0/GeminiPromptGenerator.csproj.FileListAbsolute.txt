@@ -33,3 +33,9 @@ C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\obj\Debug\
 C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\obj\Debug\net8.0\GeminiPromptGenerator.genruntimeconfig.cache
 C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\obj\Debug\net8.0\ref\GeminiPromptGenerator.dll
 C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\obj\Debug\net8.0\GeminiPromptGenerator.sourcelink.json
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\bin\Debug\net8.0\System.Management.dll
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\GeminiPromptGenerator\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll

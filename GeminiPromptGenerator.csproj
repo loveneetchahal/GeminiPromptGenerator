@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="DotnetGeminiSDK" Version="1.0.14" />
+    <PackageReference Include="Google.Apis.Auth" Version="1.68.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 

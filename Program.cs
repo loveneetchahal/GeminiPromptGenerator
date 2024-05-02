@@ -10,7 +10,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddGeminiClient(config =>
 {
-    config.ApiKey = "your-key-here";
+    config.ApiKey = "AIzaSyB2ZFstqywbQ-Q7gfuMH7aGJ3L5uiVTglQ";
     config.ImageBaseUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision";
     config.TextBaseUrl = "https://generativelanguage.googleapis.com/v1/models/gemini-pro";
 });

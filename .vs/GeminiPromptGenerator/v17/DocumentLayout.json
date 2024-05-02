@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LoveneetChahal\\Projects\\LoveneetChahal\\GeminiPromptGenerator\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A243313-06A1-4E1E-B921-AC313407DEA5}|GeminiPromptGenerator.csproj|c:\\users\\loveneetchahal\\projects\\loveneetchahal\\geminipromptgenerator\\controllers\\resttreepromptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A243313-06A1-4E1E-B921-AC313407DEA5}|GeminiPromptGenerator.csproj|solutionrelative:controllers\\resttreepromptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A243313-06A1-4E1E-B921-AC313407DEA5}|GeminiPromptGenerator.csproj|c:\\users\\loveneetchahal\\projects\\loveneetchahal\\geminipromptgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A243313-06A1-4E1E-B921-AC313407DEA5}|GeminiPromptGenerator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LoveneetChahal\\Projects\\LoveneetChahal\\GeminiPromptGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LoveneetChahal\\Projects\\LoveneetChahal\\GeminiPromptGenerator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:23:33.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestTreePromptController.cs",
+              "DocumentMoniker": "C:\\Users\\LoveneetChahal\\Projects\\LoveneetChahal\\GeminiPromptGenerator\\Controllers\\RestTreePromptController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestTreePromptController.cs",
+              "ToolTip": "C:\\Users\\LoveneetChahal\\Projects\\LoveneetChahal\\GeminiPromptGenerator\\Controllers\\RestTreePromptController.cs",
+              "RelativeToolTip": "Controllers\\RestTreePromptController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:47:06.769Z",
+              "EditorCaption": ""
             }
           ]
         }

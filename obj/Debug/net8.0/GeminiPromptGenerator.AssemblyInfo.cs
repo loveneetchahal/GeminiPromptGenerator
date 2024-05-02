@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeminiPromptGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed39713fc9b9908e3eec1fa2cbc9e4b9ba158b79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e430399ff3850563a4df925758388f154a09a627")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeminiPromptGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeminiPromptGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
